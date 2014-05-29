@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="tink.layer.LayerManager"/>
+    <classEntry path="tink.starling.StarlingStartup"/>
+    <classEntry path="tink.starling.StarlingRoot"/>
+    <classEntry path="tink.layer.LayerType"/>
+    <classEntry path="tink.display.SpriteLayer2D"/>
+    <classEntry path="tink.display.SpriteLayerStarling"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
